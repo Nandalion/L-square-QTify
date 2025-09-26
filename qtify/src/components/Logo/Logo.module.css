@@ -1,0 +1,16 @@
+.logo {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  font-size: 18px;
+  color: white;
+}
+
+.logoImg {
+  width: 80px;
+  margin-right: 6px;
+}
+
+.logoText {
+  font-size: 18px;
+}

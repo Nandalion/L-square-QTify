@@ -1,0 +1,16 @@
+.btn {
+  background: black;
+  color: #00c853; /* green text */
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px; /* pill shape */
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 16px;
+  transition: all 0.2s ease-in-out;
+}
+
+
+.btn:hover {
+  background: #222; /* slightly lighter black */
+}
